@@ -1,0 +1,7 @@
+Last login: Wed Dec 24 16:59:28 on ttys007
+tamilking@Tamils-MacBook-Air ~ % cd desktop
+tamilking@Tamils-MacBook-Air desktop % javac doubles.java
+tamilking@Tamils-MacBook-Air desktop % java doubles.java
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at doubles.main(doubles.java:6)
+tamilking@Tamils-MacBook-Air desktop % 
