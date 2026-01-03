@@ -9,13 +9,8 @@ public class doubles {
         price[3] = 1000.99;
 
         for(int d = 2; d < price.length; d++){
-                System.out.println("Price = " + price[d]);{
-        double value = Arrays.binarysearch(price,199.90);
-                System.out.println("Price = " + value);
-                }
+                System.out.println("Price = " + price[d]);
         }
-
-
 
     }
     
